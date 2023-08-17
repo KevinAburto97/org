@@ -1,0 +1,22 @@
+.lista-opciones{
+
+}
+
+.lista-opciones label{
+    display: block;
+    color: #212121;
+    font-family: var(--font-montserrat);
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.lista-opciones select{
+    width: 100%;
+    background: #FFF;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+    padding: 24px;
+    border: none;
+    outline-color: var(--main-color-blue);
+    font-size: 16px;
+}
